@@ -4,6 +4,8 @@ A custom, high-performance 3D mesh fracturing and destruction engine written in 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine)     
        
 <img width="883" height="688" alt="Unbenannt" src="https://github.com/user-attachments/assets/2107d9d0-f9a2-4fb0-930d-51f65d1fdb91" />
+     
+https://github.com/user-attachments/assets/abd39915-d653-4060-a399-c229ba6504f7      
          
 Instead of relying on heavy external physics engines, this project implements 3D Voronoi cell generation, Sutherland-Hodgman mesh clipping, and basic kinematic physics from scratch. It is designed to dynamically shatter convex meshes into realistic fragments in real-time.   
      
