@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.10.01 17:06:30.238,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.10.01 17:06:50.593,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Unit1.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2026.10.01 17:06:50.593,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.10.01 17:06:54.670,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2026.10.01 17:06:58.400,=C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Unit2.pas</Transaction>
+    <Transaction>2026.10.01 17:08:58.676,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Voronoi3D4Delphi.pas=C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Unit2.pas</Transaction>
+    <Transaction>2026.10.01 17:48:07.692,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Yutani.VoronoiFracture.pas=C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Voronoi3D4Delphi.pas</Transaction>
+    <Transaction>2026.10.01 17:56:07.668,=C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Unit2.pas</Transaction>
+    <Transaction>2026.10.01 17:57:09.989,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\uVoronoiDemoVisualizer.pas=C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\Unit2.pas</Transaction>
+    <Transaction>2026.10.01 18:12:00.768,C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\uVoronoiEngine.pas=C:\Users\Lenovo\Downloads\Voronoi3D4Delphi\uVoronoiDemoVisualizer.pas</Transaction>
+  </Transactions>
+</BorlandProject>
