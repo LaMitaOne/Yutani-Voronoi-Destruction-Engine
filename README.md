@@ -1,6 +1,6 @@
-# Yutani-Voronoi-Destruction-Engine
-A custom, high-performance 3D mesh fracturing and destruction engine written in pure Delphi. 
-       
+# Yutani-Voronoi-Destruction-Engine v0.1    
+A custom, high-performance 3D mesh fracturing and destruction engine written in pure Delphi.    
+        
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine)     
        
 <img width="883" height="688" alt="Unbenannt" src="https://github.com/user-attachments/assets/2107d9d0-f9a2-4fb0-930d-51f65d1fdb91" />
