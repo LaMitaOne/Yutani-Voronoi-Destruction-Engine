@@ -1,5 +1,5 @@
 {*******************************************************************************
-  VoronoiEngine v1.0
+  VoronoiEngine v0.1
 ********************************************************************************
   A high-performance, threaded VCL Raylib component for 3D mesh fracturing.
   Utilizing Raylib for off-screen/native rendering embedded in VCL.

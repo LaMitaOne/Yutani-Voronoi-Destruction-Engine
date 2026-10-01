@@ -1,5 +1,5 @@
 {*******************************************************************************
-  Voronoi Demo Form v1.0
+  Voronoi Demo Form v0.1
 ********************************************************************************
   VCL Wrapper demonstrating the TVoronoiEngine.
   Dynamically constructs UI controls and embeds the threaded Raylib renderer.

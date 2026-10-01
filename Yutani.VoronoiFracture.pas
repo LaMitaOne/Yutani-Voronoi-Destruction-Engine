@@ -1,5 +1,5 @@
 {*******************************************************************************
-  Yutani.VoronoiFracture v1.0
+  Yutani.VoronoiFracture v0.1
 ********************************************************************************
   A pure Delphi implementation of 3D Voronoi mesh fracturing algorithms.
   Calculates structural fragmentation using Sutherland-Hodgman clipping.
