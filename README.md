@@ -23,9 +23,7 @@ To demonstrate the engine in action, a demo application is included.
     The Scene: A standard 2x2x2 cube is rendered in 3D space.
     Explode!: Clicking Explode! triggers the Voronoi algorithm. 15 random seeds are generated inside the cube. The engine calculates the bisection planes, slices the cube into fragments, assigns random outward velocities, and drops them into the custom physics simulation.
     Performance Tuning: A TrackBar at the top allows you to dynamically change the Target FPS of the render thread (from 1 up to 5000 FPS) to test the engine's limits.
-     
-Technical Note on the Sample: To visualize the destruction natively, the sample utilizes Raylib for rendering. To ensure the VCL UI remains perfectly smooth while pushing thousands of vertices, the render loop and physics calculations are offloaded to a separate background thread.     
-     
+         
 📁 Repository Structure    
     
      Yutani.VoronoiFracture.pas - Pure math/logic unit for vector operations, mesh clipping, and Voronoi cell generation.
