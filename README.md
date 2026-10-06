@@ -38,4 +38,5 @@ To demonstrate the engine in action, a demo application is included.
      Raylib Pascal Bindings: Required to compile the included sample application (Raylib, rlgl, RayMath).
      Raylib DLL: The compiled raylib.dll must be in the executable directory.
      
-Author: Lara Miriam Tamy Reschke / LamitaOne   
+Part of https://github.com/LaMitaOne/Yutani-Building-better-worlds      
+
